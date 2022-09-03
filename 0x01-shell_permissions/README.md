@@ -1,1 +1,1 @@
-Write a script that prints the effective username of the current user
+the groups the current user
