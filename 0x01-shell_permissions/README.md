@@ -1,1 +1,1 @@
-execute permission
+the working directory
