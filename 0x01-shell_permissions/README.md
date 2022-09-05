@@ -1,1 +1,1 @@
-mode of the file
+permisson to  all subdirectories
