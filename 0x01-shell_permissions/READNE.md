@@ -1,1 +1,1 @@
- subdirectories of the current directory for the owner, the group owner and all other users
+script that changes the group owner to school for the file hello
